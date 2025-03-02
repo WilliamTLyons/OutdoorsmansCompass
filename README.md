@@ -1,6 +1,6 @@
 # Outdoorsman's Compass
 
-An interactive web application that helps outdoor enthusiasts track and document wildlife sightings using Google Maps and Firebase.
+Outdoorsman's Compass is an interactive web application designed for outdoor enthusiasts to seamlessly track, document, and explore wildlife sightings. Leveraging the power of Google Maps for precise geolocation and Firebase for secure data storage, the app enables users to log their observations, share images, and contribute to a dynamic, community-driven map of wildlife activity.
 
 <img src="https://github.com/user-attachments/assets/1e9cdcf5-190d-4376-93d8-8564f3a8fc09" alt="Home Screen" width="600">
 
